@@ -2,7 +2,7 @@
  * client.c
  *
  *  Created on: Feb 28, 2017
- *      Author: tnguyen44
+ *      Author: tnguyen44, Eli, Nick, Areej
  */
 
 #include <stdio.h>
